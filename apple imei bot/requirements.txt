@@ -1,2 +1,4 @@
-aiogram>=3.7
-aiohttp
+pyTelegramBotAPI>=4.14.0
+Flask>=3.0.0
+qrcode[pil]>=7.4.2
+requests>=2.31.0
